@@ -1,0 +1,6 @@
+[submodule "full-stack-mooc-part6-redux-anecdotes"]
+	path = full-stack-mooc-part6-redux-anecdotes
+	url = https://github.com/jeffyfung/full-stack-mooc-part6-redux-anecdotes.git
+[submodule "full-stack-mooc-part6-unicafe"]
+	path = full-stack-mooc-part6-unicafe
+	url = https://github.com/jeffyfung/full-stack-mooc-part6-unicafe.git
